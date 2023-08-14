@@ -1,4 +1,4 @@
-![mockup of zurf app with a mountain in a simulation](cover-zurf.png)
+![mockup of zurf app with a mountain in a simulation](/profile/cover-zurf.png)
 
 For us, a social network is the next killer app for web3. Imagine combining the power of a social network with the power of web3.
  
